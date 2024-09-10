@@ -29,7 +29,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PopularityPredictionOfYouTubeVideos.git
+   git clone https://github.com/harshitha0923/PopularityPredictionOfYouTubeVideos.git
    cd PopularityPredictionOfYouTubeVideos
    ```
 
